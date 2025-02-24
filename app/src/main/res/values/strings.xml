@@ -2,4 +2,12 @@
     <string name="app_name">E Commerce Layout Assignment</string>
     <string name="navigation_drawer_open">Open</string>
     <string name="navigation_drawer_close">Close</string>
+
+    <string-array name="product_categories">
+        <item>ทั้งหมด</item>
+        <item>อุปกรณ์เครื่องเขียน</item>
+        <item>อุปกรณ์กีฬา</item>
+        <item>Gadget</item>
+        <item>เสื้อผ้า</item>
+    </string-array>
 </resources>
