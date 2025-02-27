@@ -52,6 +52,6 @@ class CartFragment : Fragment() {
 
     override fun onDestroyView() {
         super.onDestroyView()
-        _binding = nullx
+        _binding = null
     }
 }

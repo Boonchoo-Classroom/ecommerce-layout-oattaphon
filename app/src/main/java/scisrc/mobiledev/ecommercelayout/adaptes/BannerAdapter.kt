@@ -22,5 +22,5 @@ class BannerAdapter(private val images: List<Int>) : RecyclerView.Adapter<Banner
         holder.bind(images[position])
     }
 
-    override fun getItemCount(): Int = images.sizex
+    override fun getItemCount(): Int = images.size
 }

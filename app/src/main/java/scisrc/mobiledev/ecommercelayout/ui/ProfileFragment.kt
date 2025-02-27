@@ -78,6 +78,6 @@ class ProfileFragment : Fragment() {
     }
 
     companion object {
-        private const val IMAGE_PICK_CODE = 1000x
+        private const val IMAGE_PICK_CODE = 1000
     }
 }

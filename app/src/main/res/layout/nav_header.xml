@@ -26,4 +26,4 @@
         android:layout_height="wrap_content"
         android:text="user@email.com"
         android:textColor="@color/white" />
-</LinearLayout>x
+</LinearLayout>
