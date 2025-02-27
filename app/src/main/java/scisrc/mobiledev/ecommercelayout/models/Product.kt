@@ -3,7 +3,6 @@ data class Product(
     val name: String,
     val price: String,
     val imageRes: Int,
-    val brandLogoRes: Int
 ) {
     override fun equals(other: Any?): Boolean {
         if (this === other) return true

@@ -37,5 +37,5 @@ object FavoriteManager {
             putString(KEY_FAVORITES, Gson().toJson(favorites))
             apply()
         }
-    }
+    }x
 }

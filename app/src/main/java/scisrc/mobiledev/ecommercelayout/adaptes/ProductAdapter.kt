@@ -49,6 +49,6 @@ class ProductAdapter(
     // ฟังก์ชันอัปเดตรายการสินค้า
     fun updateList(newList: List<Product>) {
         productList = newList
-        notifyDataSetChanged()
+        notifyDataSetChanged()x
     }
 }

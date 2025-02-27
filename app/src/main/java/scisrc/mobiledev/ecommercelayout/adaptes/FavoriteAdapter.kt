@@ -37,6 +37,6 @@ class FavoriteAdapter(private var favoriteList: List<Product>, private val onFav
 
     fun updateList(newList: List<Product>) {
         favoriteList = newList
-        notifyDataSetChanged()
+        notifyDataSetChanged()x
     }
 }

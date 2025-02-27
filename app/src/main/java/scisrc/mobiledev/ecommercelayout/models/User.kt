@@ -6,5 +6,5 @@ data class User(
     val profileImageUri: Uri?,
     val fullName: String,
     val email: String,
-    val address: String
+    val address: String,
 )

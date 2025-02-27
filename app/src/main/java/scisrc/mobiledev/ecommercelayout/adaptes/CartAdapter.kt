@@ -35,6 +35,6 @@ class CartAdapter(private var cartList: List<CartItem>, private val onCartUpdate
 
     fun updateList(newList: List<CartItem>) {
         cartList = newList
-        notifyDataSetChanged()
+        notifyDataSetChanged()x
     }
 }
